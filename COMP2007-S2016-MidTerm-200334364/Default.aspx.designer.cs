@@ -7,20 +7,18 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP2007_S2016_MidTerm_200334364
-{
-
-
-    public partial class Default
-    {
-
+namespace COMP2007_S2016_MidTerm_200334364 {
+    
+    
+    public partial class Default {
+        
         /// <summary>
-        /// Jumbotron1 control.
+        /// TodoGridView control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::COMP2007_S2016_MidTerm_200334364.User_Controls.Jumbotron Jumbotron1;
+        protected global::System.Web.UI.WebControls.GridView TodoGridView;
     }
 }
